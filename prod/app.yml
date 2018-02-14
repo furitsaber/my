@@ -1,5 +1,5 @@
 server:
-  port: helloworld
+  port: 8040
 
 spring:
   cloud:
